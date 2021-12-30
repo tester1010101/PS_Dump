@@ -15,6 +15,5 @@
 **If the error with the Red X pops, it means that the shared installed .MSIs will not be included in the log. **
 *(Your firewall may be blocking a call to Microsoft servers, no worry.) *
 
-![Prompt](https://user-images.githubusercontent.com/91343617/147774124-5294c69a-76fe-43bf-91e5-334342aff8d4.png)
-
+![Prompt](https://user-images.githubusercontent.com/91343617/147774439-73c80dcf-dc7c-47b8-8f3e-78f29ab6759c.png)
 
