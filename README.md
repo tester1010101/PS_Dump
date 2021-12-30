@@ -12,7 +12,9 @@
 4) When running the script is allowed, type in (while being in the PS_Dump directory):
 > .\PS_Dump.ps1
 5) Follow the on-screen instructions.
-**If the error with the Red X pops, it means that the shared installed .MSIs will not be included in the log.
-*(Your firewall may be blocking a call to Microsoft servers, or you may be offline, no worries.)
+
+>If the error with the Red X pops, it means that the shared installed .MSIs will not be included in the log.
+
+>(Your firewall may be blocking a call to Microsoft servers, or you may be offline, no worries.)
 
 ![Prompt](https://user-images.githubusercontent.com/91343617/147774516-140e1a2c-7b7c-4894-8cad-68a390635e5c.png)
