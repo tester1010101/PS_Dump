@@ -3,7 +3,7 @@
 * :unlock: Prompts user to open the dump location, for analysis/learning.
 
 ## Instructions:
-1) cd To_extracted/PS_Dump
+1) cd To_Extracted/PS_Dump
 2) Set-ExecutionPolicy Unrestricted
 3) Yes > **to this script/prompt ONLY** :closed_lock_with_key: 
 
