@@ -1,8 +1,8 @@
-# PS_Dump v1.1 :computer: :floppy_disk:
+# PS_Dump v1.2 :computer: :floppy_disk:
 * :old_key: Dumps all packages, services, processes (running), applications (installed in .MSI format). 
 * :unlock: Prompts user to open the dump location, for analysis/learning.
 
-## Instructions:
+## Instructions (PowerShell Terminal):
 1) cd To_Extracted/PS_Dump
 2) Set-ExecutionPolicy Unrestricted
 3) Yes > **to this script/prompt ONLY** :closed_lock_with_key: 
