@@ -1,6 +1,6 @@
 # PS_Dump v1.2 :computer: :floppy_disk:
 * :old_key: Dumps all packages, services, processes (running), applications (installed in .MSI format). 
-* :unlock: Prompts user to open the dump location, for analysis/learning.
+* :green_book: Prompts user to open the dump location, for analysis/learning.
 * :closed_lock_with_key: Can be used to send logs to a backup location or forensics.
 
 ## Instructions (Authorize the script through PowerShell Terminal):
